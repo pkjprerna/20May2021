@@ -7,6 +7,8 @@
 <h1> Welcome to Git </h1>
 <hr>
 <h2> We are learning </h2>
+<hr>
+<h3> We are newly learning </h3>
 </center>
 </body>
 </html>
